@@ -1,58 +1,63 @@
 
+
 public class User {
-	private String name;
-    private String surname;
-    private int phoneNumber;
-    private int IDNumber;
-    private String userType;
-    
-    // Constructor
-    public User(String name, String surname, int phoneNumber, int IDNumber, String userType) {
-        this.name = name;
-        this.surname = surname;
-        this.phoneNumber = phoneNumber;
-        this.IDNumber = IDNumber;
-        this.userType = userType;
-    }
-    
-    // Getter ve Setter metotlarý
-    public String getName() {
-        return name;
-    }
-    
-    public void setName(String name) {
-        this.name = name;
-    }
-    
-    public String getSurname() {
-        return surname;
-    }
-    
-    public void setSurname(String surname) {
-        this.surname = surname;
-    }
-    
-    public int getPhoneNumber() {
-        return phoneNumber;
-    }
-    
-    public void setPhoneNumber(int phoneNumber) {
-        this.phoneNumber = phoneNumber;
-    }
-    
-    public int getIDNumber() {
-        return IDNumber;
-    }
-    
-    public void setIDNumber(int IDNumber) {
-        this.IDNumber = IDNumber;
-    }
-    
-    public String getUserType() {
-        return userType;
-    }
-    
-    public void setUserType(String userType) {
-        this.userType = userType;
-    }
+	private String userType;
+	private Seller seller;
+	private Customer customer;
+	
+	public User(String userType,Seller seller) {
+		this.userType=userType;
+		this.seller=seller;
+		this.customer=null;
+	}
+	public User(String userType,Customer customer) {
+		this.userType=userType;
+		this.customer=customer;
+		this.seller=null;
+	}
+	public void printUserData() {
+		if(customer!=null) {
+			System.out.println(customer.toString());
+		}
+		if(seller!=null) {
+			System.out.println(seller.toString());
+		}
+		
+	}
+	public String getUserData() {
+		if(customer!=null) {
+			return customer.toString();
+		}
+		if(seller!=null) {
+			return seller.toString();
+		}
+		return null;
+	}
+	public String getUserType() {
+		if(customer!=null) {
+			return "customer";
+		}
+		if(seller!=null) {
+			return "seller";
+		}
+		return null;
+	}
+	public String getUserName() {
+		if(customer!=null) {
+			return customer.getUserName();
+		}
+		if(seller!=null) {
+			return seller.getUserName();
+		}
+		return null;
+	}
+	public double getUserIdNumber() {
+		if(customer!=null) {
+			return customer.getIdNumber();
+		}
+		if(seller!=null) {
+			return seller.getIdNumber();
+		}
+		return 0;
+	}
 }

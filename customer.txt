@@ -1,0 +1,17 @@
+ali,kara,alikara,5422643512,ali.kara@example.com,1365
+meltem,deniz,meltemdeniz,5551600280,meltem.deniz@example.com,2543
+mehmet,korhan,mehmetkorhan,5322765536,mehmet.korhan@example.com,6592
+fatma,kaya,fatmakaya,5381206250,fatma.kaya@example.com,4895
+can,demir,candemir,5354020860,can.demir@example.com,1123
+elif,sevim,elifsevim,5431665402,elif.sevim@example.com,2065
+murat,kurt,muratkurt,5521866952,murat.kurt@example.com,3245
+sedef,uzun,sedefuzun,5312104260,sedef.uzun@example.com,3748
+emre,korkmaz,emrekorkmaz,5339603121,emre.korkmaz@example.com,9062
+zeynep,kuzu,zeynepkuzu,5401323250,zeynep.kuzu@example.com,1070
+melike,kartal,melikekartal,5551202035,melike.kartal@example.com,3256
+hasan,aslan,hasanaslan,5483602685,hasan.aslan@example.com,4250
+elif,yazar,elifyazar,5343401222,elif.yazar@example.com,6650
+serkan,aksoy,serkanaksoy,5423608526,serkan.aksoy@example.com,3150
+zehra,demir,zehrademir,5531266895,zehra.demir@example.com,6095
+ali,demir,alidemir,5266235572,ali.demir@example.com,6938
+elif,kara,elifkara,5403625895,elif.kara@example.com,3435

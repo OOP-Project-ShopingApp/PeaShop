@@ -1,0 +1,100 @@
+VelocityBook Laptop,1245,1500,Electronics,Computers,4240,20
+ChromaCos Lipstick,2122,25,Cosmetic,Makeup,4240,30
+Stride Force Running Shoes,3320,900,Attire,Footwear,4240,40
+Lumina Gems Necklace,4125,80,Accessory,Jewelry,4240,30
+Signature Pens,5105,50,Stationery,Pens,4462,15
+Elite-X Sneakers,6106,200,Shoe,Men's Shoes,4462,50
+TechMaster Smartphone,7125,800,Electronics,Mobile Phones,7650,20
+Essence Perfume,8212,120,Cosmetic,Perfumes,4462,10
+UrbanDenim Jeans,1212,300,Attire,Men's Clothing,7650,60
+TrendVogue Sunglasses,2216,50,Accessory,Accessories,7650,70
+Shutter Pro Camera,1130,1000,Electronics,Cameras,2032,30
+Stylelash Mascara,1221,15,Cosmetic,Makeup,2032,40
+Fit-Flex Sports Bra,3865,40,Attire,Women's Clothing,7564,40
+Brilliance Earrings,4450,60,Accessory,Jewelry,2032,10
+Artisan Notebook,2015,20,Stationery,Notebooks,2032,42
+SwiftStep Sneakers,3260,180,Shoe,Women's Shoes,2390,18
+Vision Smart TV,7072,1200,Electronics,Televisions,4440,27
+Radiance Face Cream,4425,30,Cosmetic,Skincare,8095,4240,16
+Urban T-Shirt,3260,15,Attire,Children's Clothing,4462,19
+Vogue Elite Handbag,1102,200,Accessory,Bags,4462,57
+NovaTech Gaming Console,2056,500,Electronics,Gaming Consoles,4240,63
+Glow Glam Foundation,1325,35,Cosmetic,Makeup,4240,72
+Revolve Fitness Shoes,3965,150,Attire,Footwear,4462,14
+Eleganza Pearl Necklace,2424,200,Accessory,Jewelry,4462,51
+Inspire Markers Set,2320,15,Stationery,Markers,1465,42
+Elevate Running Shoes,4410,250,Shoe,Men's Shoes,4462,62
+Pixel Smartphone,8565,1000,Electronics,Mobile Phones,1465,81
+Radiant Glow Highlighter,2452,40,Cosmetic,Makeup,1465,13
+Divine Denim Jeans,9065,350,Attire,Men's Clothing,1465,26
+StyleSense Watch,3850,80,Accessory,Watches,2390,19
+Lens Capture Camera,5210,800,Electronics,Cameras,1465,41
+GlamLash False Lashes,7447,12,Cosmetic,Makeup,1465,23
+ActiveFit Leggings,3344,30,Attire,Women's Clothing,1465,46
+Starry Night Pendant,3574,70,Accessory,Jewelry,2390,55
+InkCraft Calligraphy Set,8688,25,Stationery,Pens,2390,71
+Luna Stride Sneakers,9965,220,Shoe,Women's Shoes,2390,45
+Vision Smart TV,1342,1500,Electronics,Televisions,2390,22
+Pure Glow Face Mask,9654,25,Cosmetic,Skincare,4240,34
+Mini Kids T-Shirt,8872,10,Attire,Children's Clothing,4240,86
+Urban Carry Handbag,4072,180,Accessory,Bags,4240,37
+NovaTech Gaming Console,1819,450,Electronics,Gaming Consoles,4240,27
+Velvet Glow Lipstick,3037,20,Cosmetic,Makeup,4240,55
+ActiveStep Running Shoes,6985,120,Attire,Footwear,4240,16
+Harmony Bracelet,4465,50,Accessory,Jewelry,4240,26
+Spectrum Highlighters,9235,10,Stationery,Markers,7564,29
+Flex Stride Sneakers,4765,180,Shoe,Men's Shoes,7564,72
+TechPro Tablet,3254,600,Electronics,Tablets,7564,41
+Allure Perfume,4965,90,Cosmetic,Perfumes,7564,14
+UrbanChic Blazer,8825,80,Attire,Women's Clothing,7564,41
+TrendGlow Sunglasses,5062,40,Accessory,Accessories,7564,25
+Luminary Mirrorless Camera,1362,1300,Electronics,Cameras,7564,34
+Lush Mascara,7895,18,Cosmetic,Makeup,7564,65
+ProFit Sports Shorts,1325,25,Attire,Women's Clothing,7564,54
+Harmony Bangle,6690,35,Accessory,Jewelry,7564,17
+Color Splash Markers,5555,15,Stationery,Markers,7564,19
+Cloud Walker Sneakers,9236,160,Shoe,Women's Shoes,7564,45
+Vision Smart TV,1235,1600,Electronics,Televisions,7564,30
+Radiant Serum,4652,40,Cosmetic,Skincare,8095,24
+TinyTots Onesie,5959,12,Attire,Children's Clothing,8095,51
+Scape Backpack,7210,60,Accessory,Bags,7564,41
+TechPro Laptop,9256,1500,Electronics,Computers,8095,12
+Velvet Kiss Lipstick,3260,30,Cosmetic,Makeup,8095,8
+Power Stride Running Shoes,7240,110,Attire,Footwear,8095,16
+Crystal Charm Bracelet,9260,70,Accessory,Jewelry,8095,15
+Color Blend Colored Pencils,1270,15,Stationery,Pens,8095,28
+FlexFit Sneakers,6652,190,Shoe,Men's Shoes,7564,45
+VisionTab Tablet,7965,800,Electronics,Tablets,7564,41
+Glamour Eau de Parfum,4210,95,Cosmetic,Perfumes,7564,12
+Essence T-Shirt,7241,25,Attire,Women's Clothing,8095,15
+Chic Charm Sunglasses,7126,45,Accessory,Accessories,8095,25
+Pro-Shot DSLR Camera,3852,1500,Electronics,Cameras,2032,19
+MegaLash Mascara,1362,20,Cosmetic,Makeup,2032,54
+ProFlex Sports Leggings,4752,35,Attire,Women's Clothing,2032,47
+Radiant Necklace,9652,55,Accessory,Jewelry,2032,14
+Artistic Sketchbook,7740,25,Stationery,Notebooks,2032,24
+Cloud Stride Sneakers,1485,170,Shoe,Women's Shoes,2032,17
+Maxima Smart TV,7777,1800,Electronics,Televisions,2032,65
+Fresh Glow Moisturizer,9654,35,Cosmetic,Skincare,2032,45
+TinyTots Romper,2210,18,Attire,Children's Clothing,2032,71
+Wanderlust Travel Bag,7965,80,Accessory,Bags,2032,11
+TechFusion Laptop,1346,1600,Electronics,Computers,2390,15
+BerryBlush Lipstick,8264,20,Cosmetic,Makeup,2390,65
+Flex Run Athletic Shoes,1003,120,Attire,Footwear,2390,41
+Moonlight Serenade Necklace,2014,90,Accessory,Jewelry,2390,51
+InkFlow Ballpoint Pens,8065,10,Stationery,Pens,2390,24
+Air Stride Sneakers,9265,200,Shoe,Men's Shoes,2390,75
+Edge Smartphone,4256,950,Electronics,Mobile Phones,2390,21
+Scent Sational Perfume,8265,85,Cosmetic,Perfumes,2390,42
+Dapper Denim Jeans,9765,250,Attire,Men's Clothing,2390,41
+Glamour Gaze Sunglasses,2346,60,Accessory,Accessories,2390,75
+Capture-Pro Digital Camera,2102,1200,Electronics,Cameras,2390,74
+Lash Envy Mascara,9265,18,Cosmetic,Makeup,2390,54
+PowerFit Sports Leggings,3245,30,Attire,Women's Clothing,1465,73
+Elegance Earrings,2746,75,Accessory,Jewelry,1465,34
+Designers Choice Notebook,1789,15,Stationery,Notebooks,1465,37
+Active Stride Sneakers,6096,190,Shoe,Women's Shoes,1465,54
+Elite Smart TV,1352,1400,Electronics,Televisions,1465,65
+Fresh Glow Facial Cream,9650,25,Cosmetic,Skincare,1465,74
+Trendy Tots Onesie,1478,15,Attire,Children's Clothing,1465,65
+Wanderlust Duffel Bag,1080,90,Accessory,Bags,1465,54

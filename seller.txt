@@ -1,0 +1,8 @@
+mehmet,kurt,mehmetkurt,5521623520,mehmet.kurt@example.com,4240
+nihal,aksoy,nihalaksoy,5069581107,nihal.aksoy@example.com,4462
+fatma,kuru,fatmakuru,5449800804,fatma.kuru@example.com,7650
+can,kurt,cankurt,5343201685,can.kurt@example.com,8095
+murat,kaymak,muratkaymak,5407122638,murat.kaymak@example.com,7564
+sedef,ay,sedefay,5346621385,sedef.ay@example.com,2032
+arda,kayahan,ardakayahan,5389655421,arda.kayahan@example.com,1465
+enes,kara,eneskara,5441382655,enes.kara@example.com,2390
